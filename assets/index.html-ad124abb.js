@@ -1,4 +1,4 @@
-import{_ as e,o as i,c as n,e as l}from"./app-3bda1ed4.js";const d={},t=l(`<h2 id="instalation" tabindex="-1"><a class="header-anchor" href="#instalation" aria-hidden="true">#</a> Instalation</h2><ol><li>Install VuePress locally</li></ol><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>npm install -D vuepress@next
+import{_ as e,o as i,c as n,e as l}from"./app-ac65f08a.js";const d={},t=l(`<h2 id="instalation" tabindex="-1"><a class="header-anchor" href="#instalation" aria-hidden="true">#</a> Instalation</h2><ol><li>Install VuePress locally</li></ol><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>npm install -D vuepress@next
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><ol start="2"><li>Add these scripts to package.json</li></ol><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>&quot;scripts&quot;: {
   &quot;docs:dev&quot;: &quot;vuepress dev docs&quot;,
   &quot;docs:build&quot;: &quot;vuepress build docs&quot;
