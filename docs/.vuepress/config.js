@@ -18,5 +18,5 @@ export default {
         ],
         logo: '/images/iconmonstr-carousel-filled.svg',
     }),
-    // base: '/WDIV-week11-practice-vuepress/'
+    base: '/WDIV-week11-practice-vuepress/'
 }
